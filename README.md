@@ -7,5 +7,6 @@ Looking for content related to...
   2. Jupyter notebook integration 
   3. Easy Navigation 
 
-Will likely need to use https://nbviewer.jupyter.org/ 
+Will likely need to use https://nbviewer.jupyter.org/ unless we're fine with static HTML
+
 https://purpleavatar.github.io/test-website/page_1_test
