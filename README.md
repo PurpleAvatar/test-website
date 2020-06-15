@@ -9,4 +9,6 @@ Looking for content related to...
 
 Will likely need to use https://nbviewer.jupyter.org/ unless we're fine with static HTML
 
+For example: https://nbviewer.jupyter.org/github/PurpleAvatar/test-website/blob/master/NAR_visualization.ipynb
+
 https://purpleavatar.github.io/test-website/page_1_test
