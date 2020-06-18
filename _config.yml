@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+
+# Comments in hash as normal 
+
+# Collections? 
+collections: 
+  about_project: 
+    output: true
+    permalink: /:collection/:path/
