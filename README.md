@@ -26,3 +26,6 @@ Preview: https://pages-themes.github.io/minimal/
 
 Minimal Mistakes: https://jekyllthemes.io/theme/minimal-mistakes
 Preview: https://mmistakes.github.io/minimal-mistakes/
+
+
+Remember to use F5 to do a hard refresh when continually updating and previewing websites
