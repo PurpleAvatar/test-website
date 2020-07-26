@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Contact us! 
+
+<form action="https://formspree.io/mnqgllnn" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+
 
 This is the front page
 
