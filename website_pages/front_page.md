@@ -19,6 +19,32 @@ Contact us Here:
         </div>
     </div>
 
+Contact form 2: 
+<form
+  action="https://formspree.io/mnqgllnn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+
+Contact #3: 
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+  <script>
+    window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+    formbutton("create", {action: "https://formspree.io/mnqgllnn"})
+  </script>
+
 Contact us! 
 
 <form action="https://formspree.io/mnqgllnn" method="POST">
