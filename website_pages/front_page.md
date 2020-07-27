@@ -9,7 +9,7 @@ redirect_from:
 
 But... could I download this very file?? 
 
-<a href="website_pages/front_page.md download="download"">DownloadMe</a>
+<a href="website_pages/front_page.md" download="download">DownloadMe</a>
 
 Contact us Here: 
 <div id="contact">
