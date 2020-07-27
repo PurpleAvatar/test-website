@@ -9,11 +9,11 @@ redirect_from:
 
 Try another download...
 
-<a href="/front_page.md">DownloadMe</a>
+<a href="/front_page.md"download="download">DownloadMe</a>
 
 Or a picture from the root? Let's try a full filepath
 
-<a href="https://purpleavatar.github.io/test-website/208.jpg">DownloadMe</a>
+<a href="https://purpleavatar.github.io/test-website/208.jpg" download="download">DownloadMe</a>
 
 Contact us Here: 
 <div id="contact">
