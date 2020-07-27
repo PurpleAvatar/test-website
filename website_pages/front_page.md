@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-But... could I download this very file?? Let's try again 
+Try another download...
 
-<a href="./front_page.md" download="download">DownloadMe</a>
+<a href="/front_page.md">DownloadMe</a>
+
+Or a picture from the root? Let's try a full filepath
+
+<a href="https://purpleavatar.github.io/test-website/208.jpg">DownloadMe</a>
 
 Contact us Here: 
 <div id="contact">
