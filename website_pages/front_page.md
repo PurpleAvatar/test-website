@@ -9,7 +9,7 @@ redirect_from:
 
 Try another download...
 
-<a href="/front_page.md"download="download">DownloadMe</a>
+<a href="/front_page.md" download="download">DownloadMe</a>
 
 Or a picture from the root? Let's try a full filepath
 
