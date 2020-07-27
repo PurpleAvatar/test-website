@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-But... could I download this very file?? 
+But... could I download this very file?? Let's try again 
 
 <a href="./front_page.md" download="download">DownloadMe</a>
 
