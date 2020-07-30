@@ -9,7 +9,7 @@ redirect_from:
 
 ## Before this content
 
-<div class="testBreaker"> Here's some breaker text, should have border and margin </div>
+<testBreaker> Here's some breaker text, should have border and margin </testBreaker>
 
 
 
