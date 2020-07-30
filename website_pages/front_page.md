@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+## Before this content
+
+<div class="testBreaker"> Here's some breaker text, should have border and margin </div>
+
+
+
+## After this content
+
 <div class="row">
   <div class="column">
     <div class="card">
