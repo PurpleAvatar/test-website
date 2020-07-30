@@ -7,11 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+
 ## Before this content
 
 <testBreaker> Here's some breaker text, should have border and margin </testBreaker>
 
-
+<div style="city"> This text should be modified by internal style changes <div>
 
 ## After this content
 
