@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<head>
 <style>
 .city {
   background-color: tomato;
@@ -16,12 +16,13 @@ redirect_from:
   padding: 20px;
 }
 </style>
+</head>
 
 ## Before this content
 
 <testBreaker> Here's some breaker text, should have border and margin </testBreaker>
 
-<div style="city"> This text should be modified by internal style changes <div>
+<div style="city"> This text should be modified by internal style changes with tomtaoes <div>
 
 ## After this content
 
