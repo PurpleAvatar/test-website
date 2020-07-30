@@ -10,7 +10,7 @@ redirect_from:
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Jane" style="width:100%">
+      <img src="208.jpg" alt="Jane" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
@@ -23,7 +23,7 @@ redirect_from:
 
   <div class="column">
     <div class="card">
-      <img src="img2.jpg" alt="Mike" style="width:100%">
+      <img src="../208.jpg" alt="Mike" style="width:100%">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
@@ -36,7 +36,7 @@ redirect_from:
 
   <div class="column">
     <div class="card">
-      <img src="img3.jpg" alt="John" style="width:100%">
+      <img src="208.jpg" alt="John" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
