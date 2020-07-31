@@ -10,12 +10,12 @@ redirect_from:
 <html>
 <head>
 <style>
-p.center {
+.center {
   text-align: center;
-  color: red;
+  color: blue;
 }
 
-p.large {
+.large {
   font-size: 300%;
 }
 </style>
@@ -23,7 +23,7 @@ p.large {
 <body>
 
 <h1 class="center">This heading will not be affected</h1>
-<p class="center">This paragraph will be red and center-aligned.</p>
+<p class="center">This paragraph will be BLUE and center-aligned.</p>
 <p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p> 
 
 </body>
