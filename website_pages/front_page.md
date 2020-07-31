@@ -18,9 +18,6 @@ redirect_from:
 .large {
   font-size: 300%;
 }
-iframe {
-  margin: 10px;
-}
 </style>
 </head>
 <body>
