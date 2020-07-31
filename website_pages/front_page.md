@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<head>
+<header>
 <style>
 .city {
   background-color: tomato;
@@ -16,7 +16,7 @@ redirect_from:
   padding: 20px;
 }
 </style>
-</head>
+</header>
 
 ## Before this content
 
