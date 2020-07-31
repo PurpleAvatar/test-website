@@ -19,7 +19,7 @@ redirect_from:
   font-size: 300%;
 }
 iframe {
-  margin: 40px;
+  margin: 70px;
 }
 </style>
 </head>
