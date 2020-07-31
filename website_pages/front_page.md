@@ -18,12 +18,15 @@ redirect_from:
 .large {
   font-size: 300%;
 }
+.spacing {
+  margin: 40px;
+}
 </style>
 </head>
 <body>
 
 <h1 class="center">This heading will not be affected</h1>
-<p class="center">This paragraph will be BLUE and center-aligned.</p>
+<p class="center spacing">This paragraph will be BLUE and center-aligned.</p>
 <p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p> 
 
 </body>
