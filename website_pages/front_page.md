@@ -32,9 +32,6 @@ redirect_from:
 
 ## Before this content
 
-<testBreaker> Here's some breaker text, should have border and margin </testBreaker>
-
-<div style="city"> This text should be modified by internal style changes with tomtaoes <div>
 
 ## After this content
 
@@ -147,4 +144,6 @@ Link to a youtube video: https://www.youtube.com/watch?v=xYemnKEKx0c&start=225&e
 
 Add some HTML 
 
-![Video](https://www.youtube.com/embed/5X_QiX-E7aI?start=120)
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
+
+Here's some text after the video
