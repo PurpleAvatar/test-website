@@ -34,6 +34,7 @@ redirect_from:
 Additional footnotes?[^add]
 Other text.[^footnote].
 I didn't think it was possible, but a space inbetween strings?[^spacedfootnote]
+One final check for dates [^Author1976]
 
 ## After this content
 
@@ -148,6 +149,7 @@ Add some HTML
 
 <iframe class="spacing" width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
 
+[^Author1976]: Checking for the author and a number for the year
 [^footnote]: Here's the second footnote content
 [^add]: Additional content, what about out of order? 
 [^spacedfootnote]: actually works? 
