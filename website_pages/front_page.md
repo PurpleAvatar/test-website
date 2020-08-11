@@ -31,7 +31,9 @@ redirect_from:
 
 
 ## Before this content
-
+Additional footnotes?[^add]
+Other text.[^footnote].
+I didn't think it was possible, but a space inbetween strings?[^spaced footnote]
 
 ## After this content
 
@@ -145,5 +147,9 @@ Link to a youtube video: https://www.youtube.com/watch?v=xYemnKEKx0c&start=225&e
 Add some HTML 
 
 <iframe class="spacing" width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
+
+[^footnote]: Here's the second footnote content
+[^add]: Additional content, what about out of order? 
+[^spaced footnote]: actually works? 
 
 Here's some text after the video
