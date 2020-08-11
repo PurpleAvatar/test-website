@@ -33,7 +33,7 @@ redirect_from:
 ## Before this content
 Additional footnotes?[^add]
 Other text.[^footnote].
-I didn't think it was possible, but a space inbetween strings?[^spaced footnote]
+I didn't think it was possible, but a space inbetween strings?[^spacedfootnote]
 
 ## After this content
 
@@ -150,6 +150,6 @@ Add some HTML
 
 [^footnote]: Here's the second footnote content
 [^add]: Additional content, what about out of order? 
-[^spaced footnote]: actually works? 
+[^spacedfootnote]: actually works? 
 
 Here's some text after the video
