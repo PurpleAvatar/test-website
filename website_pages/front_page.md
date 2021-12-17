@@ -7,6 +7,79 @@ redirect_from:
   - /about.html
 ---
 
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  color: blue;
+}
+
+.large {
+  font-size: 300%;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center">This heading will not be affected</h1>
+<p class="center spacing">This paragraph will be BLUE and center-aligned.</p>
+<p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p> 
+
+</body>
+</html>
+
+
+## Before this content
+Additional footnotes?[^add]
+Other text.[^footnote].
+I didn't think it was possible, but a space inbetween strings?[^spacedfootnote]
+One final check for dates [^Author1976]
+
+## After this content
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="208.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Jane Doe</h2>
+        <p class="title">CEO &amp; Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="../208.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="208.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>John Doe</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 Try another download...
 
 Or a picture from the root? Let's try a full filepath
@@ -74,4 +147,11 @@ Link to a youtube video: https://www.youtube.com/watch?v=xYemnKEKx0c&start=225&e
 
 Add some HTML 
 
-![Video](https://www.youtube.com/embed/5X_QiX-E7aI?start=120)
+<iframe class="spacing" width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
+
+[^Author1976]: Checking for the author and a number for the year
+[^footnote]: Here's the second footnote content
+[^add]: Additional content, what about out of order? 
+[^spacedfootnote]: actually works? 
+
+Here's some text after the video
